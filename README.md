@@ -41,47 +41,46 @@ This Project is driven by the Desire to Convert Guest Feedback into Actionable I
 
 The Customer Analysis Dataset is an Excel File, featuring one Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
-- Link :- 
+- Link :- https://github.com/MansiPS/Customer-Feedback-Analysis-using-Excel/blob/f3730d8c6f2b082c6a7be953b7a23f58e74b70a2/Raw%20Data.xlsx
 
 ## 📑 Dataset Description
 
 When we examine the Data, we observe a number of Different Columns.
 
-- Accident Index : An Unique Identifier for each Reported Accident.🚨
-- Accident Date : The Date in which the Accident occurred.
-- Day of Week : The Day in which the Accident occurred.
-- Junction Details : Specifics about the Junction Location.⚠️
-- Accident Severity : Degree of Impact or Harm caused by the Accident.🤕
-- Latitude : Geographic Latitude of the Accident Location.
-- Light Conditions : Lighting Status at the Time of the Accident.💥
-- Local Authority (District) : Administrative District where the Accident Occurred.
-- Carriageway Hazards : Obstacles or Dangers on the Road.
-- Longitude : Geographic Longitude of the Accident Location.
-- Number of Casualties : Total Number of Injured Individuals.🤕🤦‍♂️
-- Number of Vehicles : Count of Vehicles Involved in the Accident.🚘
-- Police Force : The Police Department responding to the Incident.🚓👮
-- Road Surface Conditions : Quality and State of the Road Surface.
-- Road Type : Classification of the Road.
-- Speed Limit : Maximum allowable Speed at the Accident Location.⚠️☠️🚨
-- Time : Exact Time when the Accident Occurred.
-- Urban or Rural Area : Classification of the Area where the Accident Happened.
-- Weather Conditions : Weather Conditions at the Time of the Accident.
-- Vehicle Type : Classification of the Vehicles Involved.
+- ID : A Unique Identifier for each Guest Feedback Entry. 🆔
+- Start Time 
+- Completion Time
+- Email
+- Name
+- Full Name : The Complete Name of the Guest. 📝
+- Gender : The Gender of the Guest. 🚻
+- Date of Birth : The Birthdate of the Guest. 🎂
+- Checkout Date : The Date when the Guest Checked Out. 🗓️
+- Purpose of the Visit : The Reason for the Guest's Stay, such as Business or Leisure. 🏨
+- How did you Discover us? : The Method by which the Guest found out about the Hotel. 🌐
+- Rate your Overall Experience in our Hotel : The Guest's Rating of their Overall Stay. ⭐
+- How likely are you to Recommend us to a Friend or Colleague? : The Likelihood of the Guest Recommending the Hotel. 🤝
+- Staff Attitude : The Guest’s Assessment of the Staff’s Demeanor and Service. 😊
+- Check-in Process : The Guest’s Evaluation of the Check-in Procedure. 🛎️
+- Room Service : The Quality of the Room Service Provided. 🍽️
+- Room Cleanliness : The Guest’s Rating of the Cleanliness of their Room. 🧹
+- Food Quality : The Guest’s Rating of the Quality of Food Served. 🍲
+- Variety of Food : The Guest’s Assessment of the Diversity of Food Options. 🍽️
+- Broadband & TV : The Guest’s Evaluation of Internet and Television Services. 📺
+- Gym : The Guest’s Rating of the Gym Facilities. 🏋️‍♂️
 
 # Requirement
 
-- ✅ The Total Casualties taken place after the Accident.
-- ✅ Types of Casualites and its Percentage Distribution 
-- ✅ The total Casualties with respect to the Vehicle type.
-- ✅ The Monthly trend showing Comparisons of Casualties for the Current Year and the Previous Year.
-- ✅ Total Casualties by the Road Type.
-- ✅ Distribution of total Casualties by the Road Surface.
-- ✅ Total Casualties by Area and by Light Conditions.
-
+- ✅ To get the Overall Feedback
+- ✅ Total Feedbacks in Different Types of Net Promoter Score.
+- ✅ Distribution of Different types of Purpose of Visits.
+- ✅ Statisitics of Source Trend.
+- ✅ General Ratings.
+- ✅ Total Feedbacks in Diffrent Sources of Information.
 
 # 🧹 Data Cleaning ✨
 
-- Made Two new Columns 'Month' and 'Year' from 'Accident Date' column.
+- Deleted Start Time, Completion Time, Email, Name columns as they are completely empty.
 - Changed the Data Types wherever required.📅
 - Removed Duplicates.
 - Replaced data with meaningful data etc.📝
@@ -103,23 +102,34 @@ The Operations performed are:
 - Applied Sorting and Filters📶
 - Applied necessary Functions📊
 
-Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Area 📍 and Accident Dates 📅🚑🚨.
+Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Purpose of Visit📍, Gender🧑🏻👩🏻 and Years📅.
 
-This Illustrates the Analysis within Rural Areas 📍.
-[![Screenshot (91)](https://github.com/user-attachments/assets/1e3f8386-904e-4723-bd59-d94bf8cf30d1)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/8fabba5e25e32a19f5cbb69f3e31e69f7f53ab51/Analysis%201.png)
+This Illustrates the Analysis for the Year 2020 📅.
+![Analysis 1](https://github.com/user-attachments/assets/9963ad1c-fd6b-4a4c-a09c-eecf902fb897)
 
-This Illustrates the Analysis within Urban Areas 📍.
-[![Screenshot (92)](https://github.com/user-attachments/assets/9e43979b-26bc-430e-926a-493b14181ade)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/25e6cc624ba1e04cf1e007bdc45b43225c329d65/Analysis%202.png)
+This Illustrates the Analysis for the Year 2021 📅.
+![Analysis 2](https://github.com/user-attachments/assets/e15ac84b-2b4d-49e6-8b7e-d80daed141d9)
 
-This Illustrates the Analysis for the Accidents Date within 2021 Quarter1 📅.
-[![Screenshot (93)](https://github.com/user-attachments/assets/bc2f13dc-8cbe-409c-ab11-4791a5469eda)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%203.png)
+This Illustrates the Analysis for the Year 2022 📅.
+![Analysis 3](https://github.com/user-attachments/assets/ea034921-db65-4078-b0b5-78bc51f13e20)
 
-This Illustrates the Analysis for the Accidents Date within 2022 Quarter3 📅.
-[![Screenshot (94)](https://github.com/user-attachments/assets/7957550d-c142-4c6f-89c6-fff7ca476d7a)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%204.png)
+This Illustrates the Analysis for the Year 2022 📅 and Reviews given only by "Male"🧑🏻 Customers.
+![Analysis 4](https://github.com/user-attachments/assets/17a45503-b36c-4ac0-a4ee-4b35768e4e24)
 
-This Illustrates the Analysis for the Accidents Date within 2022 Quarter4 📅.
-[![Screenshot (95)](https://github.com/user-attachments/assets/33c6dfe8-b31b-4a50-8482-3ff80f13786e)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%205.png)
+This Illustrates the Analysis for the Year 2021 📅 and Reviews given only by "Female"👩🏻 Customers.
+![Analysis 5](https://github.com/user-attachments/assets/380d70b8-48d1-4288-9acc-27b3e6c9ab4f)
 
+This Illustrates the Analysis for the Year 2020 📅 and Reviews given by the Customers who visited only for the "Function" Purpose.
+![Analysis 6](https://github.com/user-attachments/assets/b5fa86cf-dfaf-4b3c-a424-28ec0d5f1b1e)
+
+This Illustrates the Analysis for the Year 2021 📅 and Reviews given by the Customers who visited only for the "Vacation" Purpose.
+![Analysis 7](https://github.com/user-attachments/assets/522584fa-c998-4f2a-ab5f-c4412b2c1888)
+
+This Illustrates the Analysis for the Year 2022 📅 and Reviews given by the Customers who visited only for the "Other" Purpose.
+![Analysis 8](https://github.com/user-attachments/assets/ad762e22-4493-44ab-aecc-ddfdbc5aaf5d)
+
+This Illustrates the Analysis for the Year 2022 📅 and Reviews given by the "Female" Customers who visited only for the "Other" Purpose.
+![Analysis 9](https://github.com/user-attachments/assets/3fc681f5-bfc4-4cf2-a41c-c19cad1139eb)
 
 # Author 🙎‍♀️  
 
@@ -128,12 +138,14 @@ This Illustrates the Analysis for the Accidents Date within 2022 Quarter4 📅.
 
 # 📝 Lessons Learnt 
 
-- ⭐Data Quality is Crucial
-- ⭐Simplicity Enhances Usability
-- ⭐Effective Use of Visuals
-- ⭐Interactive Elements Add Value
-- ⭐Consistent Formatting is Key
-- ⭐Performance Optimization Matters
+- ⭐Data Accuracy is Essential
+- ⭐Effective Survey Design
+- ⭐Visual Clarity Matters
+- ⭐User Interaction Enhancements
+- ⭐Data Integration Challenges
+- ⭐Feedback Analysis Depth
+- ⭐Performance Optimization
+- ⭐Actionable Insights
 
 # ✍ Acknowledgement
 
