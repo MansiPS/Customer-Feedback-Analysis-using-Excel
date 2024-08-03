@@ -105,7 +105,7 @@ The Operations performed are:
 Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Purpose of Visit📍, Gender🧑🏻👩🏻 and Years📅.
 
 This Illustrates the Analysis for the Year 2020 📅.
-![Analysis 1](https://github.com/user-attachments/assets/9963ad1c-fd6b-4a4c-a09c-eecf902fb897)
+![Analysis 1](https://github.com/user-attachments/assets/9ed90d75-b354-4594-969a-5cbd191ec304)
 
 This Illustrates the Analysis for the Year 2021 📅.
 ![Analysis 2](https://github.com/user-attachments/assets/e15ac84b-2b4d-49e6-8b7e-d80daed141d9)
