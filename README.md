@@ -31,11 +31,11 @@ The Customer Analysis Dashboard for Hotel Guest Feedback provides a Detailed Exa
 
 # 🚀 Project Goal
 
-To Develop an Intricate Road Accident Dashboard for the years 2021 and 2022, encapsulating Critical Insights and Data to Illuminate the key factors influencing Road Traffic Accidents.
+The Aim of this Project is to provide an In-depth Evaluation of Hotel Guest Feedback, facilitating a clearer Understanding of Service Performance and Areas for Enhancement.
 
 # Project Motivation
 
-The Motivation driving this project is to Utilize Advanced Data Analysis and Predictive Techniques to significantly improve Road Safety and reduce the Incidence of Traffic Accidents Worldwide.
+This Project is driven by the Desire to Convert Guest Feedback into Actionable Intelligence, Fostering Advancements in Hotel Services and Elevating Overall Guest Satisfaction.
 
 # ⏳ Dataset
 
