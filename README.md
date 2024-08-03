@@ -103,29 +103,38 @@ Additionally, the Dashboard offers Customizable filters for Enhanced Data Explor
 This Illustrates the Analysis for the Year 2020 📅.
 ![Analysis 1](https://github.com/user-attachments/assets/9ed90d75-b354-4594-969a-5cbd191ec304)
 
+
 This Illustrates the Analysis for the Year 2021 📅.
 ![Analysis 2](https://github.com/user-attachments/assets/e15ac84b-2b4d-49e6-8b7e-d80daed141d9)
+
 
 This Illustrates the Analysis for the Year 2022 📅.
 ![Analysis 3](https://github.com/user-attachments/assets/ea034921-db65-4078-b0b5-78bc51f13e20)
 
+
 This Illustrates the Analysis for the Year 2022 📅 and Reviews given only by "Male"🧑🏻 Customers.
 ![Analysis 4](https://github.com/user-attachments/assets/17a45503-b36c-4ac0-a4ee-4b35768e4e24)
+
 
 This Illustrates the Analysis for the Year 2021 📅 and Reviews given only by "Female"👩🏻 Customers.
 ![Analysis 5](https://github.com/user-attachments/assets/380d70b8-48d1-4288-9acc-27b3e6c9ab4f)
 
+
 This Illustrates the Analysis for the Year 2020 📅 and Reviews given by the Customers who visited only for the "Function" Purpose.
 ![Analysis 6](https://github.com/user-attachments/assets/b5fa86cf-dfaf-4b3c-a424-28ec0d5f1b1e)
+
 
 This Illustrates the Analysis for the Year 2021 📅 and Reviews given by the Customers who visited only for the "Vacation" Purpose.
 ![Analysis 7](https://github.com/user-attachments/assets/522584fa-c998-4f2a-ab5f-c4412b2c1888)
 
+
 This Illustrates the Analysis for the Year 2022 📅 and Reviews given by the Customers who visited only for the "Other" Purpose.
 ![Analysis 8](https://github.com/user-attachments/assets/ad762e22-4493-44ab-aecc-ddfdbc5aaf5d)
 
+
 This Illustrates the Analysis for the Year 2022 📅 and Reviews given by the "Female" Customers who visited only for the "Other" Purpose.
 ![Analysis 9](https://github.com/user-attachments/assets/3fc681f5-bfc4-4cf2-a41c-c19cad1139eb)
+
 
 # Author 🙎‍♀️  
 
